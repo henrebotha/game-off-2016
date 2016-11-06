@@ -5,6 +5,11 @@ var COLORS = {
 	blue: '#3030ff'
 }
 
+var TEXT_STYLES = {
+	h1: '50px Arial',
+	h2: '25px Arial'
+}
+
 var game = new Phaser.Game(800, 600, Phaser.AUTO, 'game', {create: create})
 
 console.log('Game object created')

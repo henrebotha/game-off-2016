@@ -8,7 +8,7 @@ var menuState = {
 			80,
 			'Github Game Off 2016',
 			{
-				font: '50px Arial',
+				font: TEXT_STYLES.h1,
 				fill: COLORS.blue
 			}
 		)
@@ -18,7 +18,7 @@ var menuState = {
 			game.world.height - 80,
 			'Log in',
 			{
-				font: '25px Arial',
+				font: TEXT_STYLES.h2,
 				fill: COLORS.blue
 			}
 		)
