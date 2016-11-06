@@ -9,7 +9,7 @@ var menuState = {
 			'Github Game Off 2016',
 			{
 				font: '50px Arial',
-				fill: '#3030ff'
+				fill: COLORS.blue
 			}
 		)
 
@@ -19,7 +19,7 @@ var menuState = {
 			'Log in',
 			{
 				font: '25px Arial',
-				fill: '#3030ff'
+				fill: COLORS.blue
 			}
 		)
 
