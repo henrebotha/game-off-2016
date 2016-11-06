@@ -1,6 +1,6 @@
 var playState = {
 	create: function() {
-		// Create the play area here
+		// TODO priority 1: create the play area here
 		console.log('Calling create function of playState...')
 	}
 }
